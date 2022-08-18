@@ -1,0 +1,9 @@
+Name               : sadeem
+Flight             : A12
+Seat No            : A12
+Departure Airport  : Sialkot
+Arrival Airport    : Lahore
+Departure Time     : 3:00
+Departure Time     : 4:00
+Flight Day         : Tuesday
+Flight Date        : 13/08/22
